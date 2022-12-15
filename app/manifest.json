@@ -1,8 +1,8 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "SHS Games",
-    "short_name": "SHS Games",
-    "description": "Unblocked games • part of an inside job.",
+    "name": "WJP Games",
+    "short_name": "WJP Games",
+    "description": "Unblocked games",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "orientation": "portrait",
