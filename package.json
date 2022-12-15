@@ -1,9 +1,9 @@
 {
-    "name": "shsgames",
-    "display-name": "SHS Games",
+    "name": "WJPgames",
+    "display-name": "WJP Games",
     "version": "29.0.3",
-    "description": "Unblocked games • part of an inside job.",
-    "author": "Josh Merlino",
+    "description": "Unblocked games",
+    "author": "Josh Merlino this is a direct reskin of his site",
     "license": "ISC",
     "main": "lib/src",
     "types": "lib/src",
